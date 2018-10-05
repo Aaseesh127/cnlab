@@ -80,6 +80,9 @@ $udp1 set class_ 1
 $app0 set packetSize_ 1000
 $app1 set packetSize_ 1000
 
+$app0 set interval_ 0.005
+$app1 set interval_ 0.005
+
 #--------Totally optional---------
 
 
